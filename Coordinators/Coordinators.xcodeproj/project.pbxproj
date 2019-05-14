@@ -95,7 +95,6 @@
 				3D07AF42228A83AA00B01A5E /* Storyboard Delegates */,
 				3D07AF3F228A830900B01A5E /* Coordinator */,
 				3D07AF1C228A819700B01A5E /* AppDelegate.swift */,
-				3D07AF1E228A819700B01A5E /* ViewController.swift */,
 				3D07AF20228A819700B01A5E /* Main.storyboard */,
 				3D07AF26228A819900B01A5E /* Assets.xcassets */,
 				3D07AF28228A819900B01A5E /* LaunchScreen.storyboard */,
@@ -135,6 +134,7 @@
 		3D07AF47228A883600B01A5E /* View Contollers */ = {
 			isa = PBXGroup;
 			children = (
+				3D07AF1E228A819700B01A5E /* ViewController.swift */,
 				3D07AF48228A885200B01A5E /* BuyViewController.swift */,
 				3D07AF4A228A886E00B01A5E /* CreateAccountViewController.swift */,
 			);
