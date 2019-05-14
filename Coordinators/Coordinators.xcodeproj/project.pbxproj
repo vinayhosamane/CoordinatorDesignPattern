@@ -19,6 +19,7 @@
 		3D07AF46228A85A900B01A5E /* MainCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D07AF45228A85A900B01A5E /* MainCoordinator.swift */; };
 		3D07AF49228A885200B01A5E /* BuyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D07AF48228A885200B01A5E /* BuyViewController.swift */; };
 		3D07AF4B228A886E00B01A5E /* CreateAccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D07AF4A228A886E00B01A5E /* CreateAccountViewController.swift */; };
+		3D07AF4D228A95E500B01A5E /* BuyCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D07AF4C228A95E500B01A5E /* BuyCoordinator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		3D07AF45228A85A900B01A5E /* MainCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainCoordinator.swift; sourceTree = "<group>"; };
 		3D07AF48228A885200B01A5E /* BuyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuyViewController.swift; sourceTree = "<group>"; };
 		3D07AF4A228A886E00B01A5E /* CreateAccountViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateAccountViewController.swift; sourceTree = "<group>"; };
+		3D07AF4C228A95E500B01A5E /* BuyCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuyCoordinator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +119,7 @@
 			children = (
 				3D07AF40228A832000B01A5E /* Coodinator.swift */,
 				3D07AF45228A85A900B01A5E /* MainCoordinator.swift */,
+				3D07AF4C228A95E500B01A5E /* BuyCoordinator.swift */,
 			);
 			path = Coordinator;
 			sourceTree = "<group>";
@@ -239,6 +242,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3D07AF4D228A95E500B01A5E /* BuyCoordinator.swift in Sources */,
 				3D07AF25228A819700B01A5E /* Coordinators.xcdatamodeld in Sources */,
 				3D07AF46228A85A900B01A5E /* MainCoordinator.swift in Sources */,
 				3D07AF41228A832000B01A5E /* Coodinator.swift in Sources */,
